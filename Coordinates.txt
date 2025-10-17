@@ -1,0 +1,21 @@
+KK Number
+
+1165, 120
+2420, 210
+
+Household
+458,220
+3000,394
+
+List Anggota
+88,372
+3472,1052
+
+Additional Info
+84,1034
+3476,1718
+
+Publish Date
+102, 1755
+920, 1847
+
